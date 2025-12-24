@@ -1,13 +1,39 @@
 <h1 align="center">Hi 👋, I'm Ethan Leong Yi Thian</h1>
-<h3 align="center">A passionate Software Engineering.Embarking on the journey to expand my knowledge and skills in the world of SOFTWARE ENGINEERING</h3>
 
-<h3 align="left">Connect with me: </h3>
-<ul>
-  <li><a href = "mailto: ethanleong86@gmail.com">:email:Send Email</a></li>
-  <li><i class="fa-brands fa-linkedin"></i><a href="https://www.linkedin.com/in/ethanleongyithian">:information_source:	LinkedIn</li>
-</ul>
-<p align="left">
+<h3 align="center">
+Software Engineer with a focus on backend development and data-driven systems.
+Experienced in building reliable services, APIs, and automation for financial applications.
+</h3>
+
+<p align="center">
+I design and build backend systems with an emphasis on correctness, performance, and maintainability.
+Most of my work involves data processing, API development, and system integration in production environments.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h3 align="left">Connect with me:</h3>
+<p>
+<a href="mailto:ethanleong86@gmail.com">📧 Email</a> ·
+<a href="https://www.linkedin.com/in/ethanleongyithian">🔗 LinkedIn</a>
+</p>
+
+<h3 align="left">Tech Stack</h3>
+
+<p>
+Python · Java · JavaScript · TypeScript · SQL · C++ · Go (learning)
+</p>
+
+<p>
+Spring Boot · Flask · FastAPI · REST APIs · Linux · Docker · Nginx
+</p>
+
+<p>
+CI/CD · GitHub Actions · Jenkins · System Design · Data Pipelines
+</p>
+
+<p>
+pandas · polars · NumPy · scikit-learn · TensorFlow · XGBoost
+</p>
+
+<p>
+MySQL · PostgreSQL · React · Vite · HTML · CSS · Web Scraping · Text Processing
+</p>
