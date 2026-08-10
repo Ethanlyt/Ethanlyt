@@ -19,7 +19,7 @@ Most of my work involves data processing, API development, and system integratio
 <h3 align="left">Tech Stack</h3>
 
 <p>
-Python · Java · JavaScript · TypeScript · SQL · C++ · Go (learning)
+Python · Java · JavaScript · TypeScript · SQL · C++ · Go
 </p>
 
 <p>
